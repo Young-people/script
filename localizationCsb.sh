@@ -100,5 +100,5 @@ end
 return CSBNodeLocalResHelper "
 echo $tolua_str > ../src/slg/manager/CSBNodeLocalResHelper.lua
 
-清除临时文件
+#清除临时文件
 rm ../temp.lua t1 t2
